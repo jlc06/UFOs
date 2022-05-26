@@ -6,8 +6,9 @@ In this project, I assisted data journalist, Dana, with creating a dynamic websi
 
 ## Results
 Results: Describe to Dana how someone might use the new webpage by walking her through the process of using the search criteria. Use images of your webpage during the filtering process to support your explanation.
-
+Following our updates to the website, 
 
 ## Summary
-Summary: In a summary statement, describe one drawback of this new design and two recommendations for further development.
-While our website and dynamic table have exceeded our expectations, one drawback of the new design is its limited amount of data. All of the UFO sightings we have at our disposal come from a single source, which is not nearly exhaustive. 
+While our website and dynamic table have exceeded our expectations, one drawback of the new design is its lack of a comprehensive list of possible keywords a user can type into the filters to find what they're looking for. In it's current form, users sifting through the data must have some previous knowledge of what they are looking for or will need to read through the table to get an idea of what keywords are present. Two recommendations I would make for futher development are:
+1. Changing the filter area to drop down menus instead of a typing input area. This would allow for more efficienct data analysis from all users that visit our site.
+2. Wrapping our table into a smaller window with a scroll bar that would limit the size of our webpage and give everything a more polished look. 
